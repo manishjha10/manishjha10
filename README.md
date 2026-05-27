@@ -1,11 +1,11 @@
+![logo](https://github.com/manishjha10/manishjha10/blob/main/GitHubBanner.png.png)
 <h1 align="center">Hi 👋, I'm Manish Jha</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer</h3>
 
 <img align ="right" alt = "coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjha10&label=Profile%20views&color=0e75b6&style=flat" alt="manishjha10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishjha10" alt="manishjha10" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjha10&label=Profile%20views&color=0e75b6&style=flat" alt="manishjha10" /> </p>
 
 - 📫 How to reach me **jhas67761@gmail.com**
 
